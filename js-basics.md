@@ -19,6 +19,7 @@ Download Node.js and install it on your computer:
 ### Meet the Console Tab of Web Development Tools
 
 Provides you with a basic introduction to the Console window on the web browsers.
+Check out on the [chrome devtools](https://developer.chrome.com/docs/devtools/console/javascript/)
 
 ### First program in JavaScript
 
